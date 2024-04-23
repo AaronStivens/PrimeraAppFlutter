@@ -1,4 +1,4 @@
-# hola_mundo
+# Generador random
 
 A new Flutter project.
 
